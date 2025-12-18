@@ -4,7 +4,7 @@ import { cashFlowBudget } from '../data/budget-q4';
 
 const Slide34: React.FC = () => {
   return (
-    <Slide className="cashflow-budget-slide">
+    <Slide className="cash-flow-budget-slide">
       <h2 className="slide-title">DỰ TOÁN DÒNG TIỀN QUÝ IV/2025</h2>
       <div className="budget-table-container">
         <Table data={cashFlowBudget} />

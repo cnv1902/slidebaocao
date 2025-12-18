@@ -9,7 +9,7 @@ const Slide38: React.FC = () => {
       <div className="summary-content">
         <div className="achievements">
           <h3>Thành tựu đạt được</h3>
-          <div className="achievement-grid">
+          <div className="achievements-grid">
             <div className="achievement-card">
               <span className="icon">📊</span>
               <h4>Doanh thu</h4>
